@@ -172,12 +172,12 @@ class Shop extends PureComponent {
         <MenuItem onClick={this.handleOpenAbout} disabled={showAbout}>About</MenuItem>
         <MenuItem
           leftIcon={<FaTwitter />}
-          href='https://twitter.com/bashkos'
+          href='https://twitter.com/qodunpob'
           target='_blank'
         >Author</MenuItem>
         <MenuItem
           leftIcon={<FaGithub />}
-          href='https://github.com/bashkos/react-ultimate-contextmenu'
+          href='https://github.com/qodunpob/react-ultimate-contextmenu'
           target='_blank'
         >GitHub</MenuItem>
       </Menu>

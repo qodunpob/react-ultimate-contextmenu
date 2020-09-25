@@ -75,7 +75,7 @@ const About = ({ handleCloseAbout }) => <Popup onClick={handleCloseAbout}>
       <p>If you want to buy something, please go to <Selected>{'<HERE COULD BE YOUR STORE NAME>'}</Selected>.</p>
       <p>
         If you have questions or suggestions,
-        please look at <a href='https://github.com/bashkos/react-ultimate-contextmenu' target='_blank'>GitHub</a>
+        please look at <a href='https://github.com/qodunpob/react-ultimate-contextmenu' target='_blank'>GitHub</a>
       </p>
     </ModalText>
     <CloseButton title='Close' onClick={handleCloseAbout}><FaTimes /></CloseButton>

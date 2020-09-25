@@ -1,8 +1,8 @@
 # react-ultimate-contextmenu
 React-component allows you to replace the browser context menu with your own
 
-[Demo](https://bashkos.github.io/examples/react-ultimate-contextmenu/)
-([See code](https://github.com/bashkos/react-ultimate-contextmenu/tree/master/example))
+[Demo](https://qodunpob.github.io/examples/react-ultimate-contextmenu/)
+([See code](https://github.com/qodunpob/react-ultimate-contextmenu/tree/master/example))
 
 ## Installation
 By npm
